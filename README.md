@@ -8,4 +8,4 @@
 
 # software requirements specification
 
-[PDF](
+[PDF](https://github.com/TejavathChakridhar/PROJECTS/blob/main/Library%20Management.pdf)
