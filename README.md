@@ -8,4 +8,4 @@
 
 # software requirements specification
 
-[PDF](https://github.com/TejavathChakridhar/PROJECTS/blob/main/Library%20Management.pdf)
+[PDF](https://github.com/TejavathChakridhar/PROJECTS/blob/main/Library%20Management.pdf)-Documentation of SRS
